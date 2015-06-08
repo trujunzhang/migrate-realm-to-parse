@@ -1,0 +1,3 @@
+[submodule "CarthagedFramework"]
+	path = CarthagedFramework
+	url = https://github.com/wanghaogithub720/CarthagedFramework
